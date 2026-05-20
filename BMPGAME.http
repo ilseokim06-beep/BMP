@@ -16,6 +16,22 @@ Accept: application/json
 GET {{BMPGAME_HostAddress}}/api/products/search?name=7600
 Accept: application/json
 
+### 제품 상세
+GET {{BMPGAME_HostAddress}}/api/products/1
+Accept: application/json
+
+### 필터 (조합 예시)
+GET {{BMPGAME_HostAddress}}/api/products/filter?category=GPU&brand=NVIDIA&minPrice=400000&maxPrice=900000
+Accept: application/json
+
+### 정렬 (가격 낮은순)
+GET {{BMPGAME_HostAddress}}/api/products/sort?sortBy=priceAsc
+Accept: application/json
+
+### 두 상품 비교
+GET {{BMPGAME_HostAddress}}/api/products/compare?id1=1&id2=2
+Accept: application/json
+
 ### 가격 비교 (GET)
 GET {{BMPGAME_HostAddress}}/api/compare?ids=1&ids=3&ids=4
 Accept: application/json

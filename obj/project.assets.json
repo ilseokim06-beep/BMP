@@ -83,16 +83,16 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Heesung\\AppData\\Local\\Temp\\cursor-sandbox-cache\\380de317e3007c2ffff107c3c6646839\\nuget": {}
+    "C:\\Users\\Heesung\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Heesung\\Desktop\\BMPGAME\\BMPGAME.csproj",
+      "projectUniqueName": "C:\\Users\\Heesung\\Desktop\\BMPGAME\\BMPGAME.csproj",
       "projectName": "BMPGAME",
-      "projectPath": "c:\\Users\\Heesung\\Desktop\\BMPGAME\\BMPGAME.csproj",
-      "packagesPath": "C:\\Users\\Heesung\\AppData\\Local\\Temp\\cursor-sandbox-cache\\380de317e3007c2ffff107c3c6646839\\nuget",
-      "outputPath": "c:\\Users\\Heesung\\Desktop\\BMPGAME\\obj\\",
+      "projectPath": "C:\\Users\\Heesung\\Desktop\\BMPGAME\\BMPGAME.csproj",
+      "packagesPath": "C:\\Users\\Heesung\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Heesung\\Desktop\\BMPGAME\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Heesung\\AppData\\Roaming\\NuGet\\NuGet.Config"

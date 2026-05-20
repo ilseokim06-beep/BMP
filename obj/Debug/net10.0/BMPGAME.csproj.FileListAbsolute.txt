@@ -32,3 +32,4 @@ C:\Users\Heesung\Desktop\BMPGAME\obj\Debug\net10.0\BMPGAME.pdb
 C:\Users\Heesung\Desktop\BMPGAME\obj\Debug\net10.0\BMPGAME.genruntimeconfig.cache
 C:\Users\Heesung\Desktop\BMPGAME\obj\Debug\net10.0\ref\BMPGAME.dll
 c:\Users\Heesung\Desktop\BMPGAME\bin\Debug\net10.0\Data\parts.json
+C:\Users\Heesung\Desktop\BMPGAME\obj\Debug\net10.0\BMPGAME.sourcelink.json
