@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "category": "CPU",
+    "name": "Ryzen 5 7600",
+    "brand": "AMD",
+    "price": 249000,
+    "usage": "1080p 게이밍 · 사무",
+    "tag": "가성비",
+    "score": 72.5
+  },
+  {
+    "id": 2,
+    "category": "CPU",
+    "name": "Ryzen 7 7800X3D",
+    "brand": "AMD",
+    "price": 489000,
+    "usage": "고주사율 게이밍",
+    "tag": "게이밍",
+    "score": 94.2
+  },
+  {
+    "id": 3,
+    "category": "CPU",
+    "name": "Ryzen 5 9600X",
+    "brand": "AMD",
+    "price": 299000,
+    "usage": "1440p 게이밍",
+    "tag": "신규",
+    "score": 81.0
+  },
+  {
+    "id": 4,
+    "category": "CPU",
+    "name": "Core i5-14600K",
+    "brand": "Intel",
+    "price": 329000,
+    "usage": "게이밍 · 스트리밍",
+    "tag": "밸런스",
+    "score": 83.4
+  },
+  {
+    "id": 5,
+    "category": "CPU",
+    "name": "Core i7-14700K",
+    "brand": "Intel",
+    "price": 459000,
+    "usage": "영상 편집 · 멀티태스킹",
+    "tag": "고성능",
+    "score": 88.7
+  },
+  {
+    "id": 6,
+    "category": "GPU",
+    "name": "GeForce RTX 4060",
+    "brand": "NVIDIA",
+    "price": 449000,
+    "usage": "1080p 고주사율 게이밍",
+    "tag": "가성비",
+    "score": 68.3
+  },
+  {
+    "id": 7,
+    "category": "GPU",
+    "name": "GeForce RTX 4060 Ti",
+    "brand": "NVIDIA",
+    "price": 649000,
+    "usage": "1080p·1440p 게이밍",
+    "tag": "밸런스",
+    "score": 76.8
+  },
+  {
+    "id": 8,
+    "category": "GPU",
+    "name": "GeForce RTX 4070 Super",
+    "brand": "NVIDIA",
+    "price": 899000,
+    "usage": "1440p 울트라 게이밍",
+    "tag": "추천",
+    "score": 86.5
+  },
+  {
+    "id": 9,
+    "category": "GPU",
+    "name": "GeForce RTX 4080 Super",
+    "brand": "NVIDIA",
+    "price": 1290000,
+    "usage": "4K 게이밍 · 3D 작업",
+    "tag": "고성능",
+    "score": 93.1
+  },
+  {
+    "id": 10,
+    "category": "GPU",
+    "name": "GeForce RTX 5070",
+    "brand": "NVIDIA",
+    "price": 849000,
+    "usage": "1440p·4K 차세대 게이밍",
+    "tag": "신규",
+    "score": 89.4
+  }
+]

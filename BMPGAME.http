@@ -1,0 +1,29 @@
+@BMPGAME_HostAddress = http://localhost:5019
+
+### 전체 제품
+GET {{BMPGAME_HostAddress}}/api/products
+Accept: application/json
+
+### CPU 목록
+GET {{BMPGAME_HostAddress}}/api/products/cpu
+Accept: application/json
+
+### GPU 목록
+GET {{BMPGAME_HostAddress}}/api/products/gpu
+Accept: application/json
+
+### 제품명 검색
+GET {{BMPGAME_HostAddress}}/api/products/search?name=7600
+Accept: application/json
+
+### 가격 비교 (GET)
+GET {{BMPGAME_HostAddress}}/api/compare?ids=1&ids=3&ids=4
+Accept: application/json
+
+### 가격 비교 (POST)
+POST {{BMPGAME_HostAddress}}/api/compare
+Content-Type: application/json
+
+{
+  "productIds": [4, 5, 6]
+}

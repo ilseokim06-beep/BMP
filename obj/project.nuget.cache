@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiM4gfqXV8s=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Heesung\\Desktop\\BMPGAME\\BMPGAME.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heesung\\AppData\\Local\\Temp\\cursor-sandbox-cache\\380de317e3007c2ffff107c3c6646839\\nuget\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\Heesung\\AppData\\Local\\Temp\\cursor-sandbox-cache\\380de317e3007c2ffff107c3c6646839\\nuget\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
